@@ -1,0 +1,39 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url("img/hero.jpg");
+}
+
+#profil {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#sosmed {
+  background-color: #780000;
+}
+
+#project {
+  background-color: #406099;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: aqua;
+}
+
+.ig-thumbs {
+  width: 100px;
+  height: 100px;
+  float: left;
+  overflow: hidden;
+}
+
+.ig-thumbs img {
+  width: 100px;
+}
